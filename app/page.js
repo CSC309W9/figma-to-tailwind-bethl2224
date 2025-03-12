@@ -17,8 +17,9 @@ export default function Home() {
           src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-3402c4f.jpg"
         />
       </div>
-      <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">
-        BlaBla Coffe!
+      <div className="w-[680px] left-[143px] top-[313px] absolute flex flex-col justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">
+        <div>BlaBla </div>
+        <div>Coffee !</div>
       </div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">
         Your NO.1 Choice{" "}
